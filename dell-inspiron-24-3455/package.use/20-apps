@@ -1,2 +1,4 @@
+media-gfx/feh curl
+app-office/libreoffice pdfimport
 net-misc/remmina rdp webkit
 net-misc/freerdp smartcard
